@@ -1,0 +1,14 @@
+name: MrMrBungle.com
+layout_spectrum: 0.20875850455856082
+typography_spectrum: 0.41693338473556063
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.9781690617847766
+  lightness: 0.8984582433954433
+  saturation: 0.36243608864999366
+  rhythmicContrast: 0.487008529199373
