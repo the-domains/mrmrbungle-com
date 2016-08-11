@@ -1,6 +1,9 @@
 name: MrMrBungle.com
 layout_spectrum: 0.20875850455856082
 typography_spectrum: 0.41693338473556063
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B9121B'
@@ -12,3 +15,10 @@ color:
   lightness: 0.8984582433954433
   saturation: 0.36243608864999366
   rhythmicContrast: 0.487008529199373
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
